@@ -1,0 +1,16 @@
+@media (min-width: 768px) {
+    .contenedor {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  
+@media (min-width: 768px) {
+    .footer {
+      background-color: linear-gradient( $color_negro1 , $color_rojo );
+      padding: 1rem 1rem;
+      width: 100%;
+      color: $color_blanco2;
+      text-align: center;
+    }
+  }

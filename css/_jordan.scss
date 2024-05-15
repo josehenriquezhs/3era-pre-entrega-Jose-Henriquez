@@ -1,0 +1,29 @@
+
+@mixin alturaimagen($altura){
+  height: $altura;
+}
+
+
+
+  .imagen-jordanlife {
+   @include alturaimagen($altura);
+    width: 80%;
+  }
+  
+  .parrafo-jordan {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 2rem;
+    text-align: center;
+    margin: 1.5rem;
+    color: $color_blanco2;
+  }
+  
+  
+  
+  .imagen-productolife {
+    height: 80%;
+    width: 80%;
+  }
