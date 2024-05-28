@@ -7,3 +7,9 @@
 4.- agregue etiquetas meta description a dos pages al index y pagina jordan
 
 5.- mejore algunos párrafos haciéndolos mas cortos para poner un par de imágenes en una pages que notaba que tenia texto
+
+6. - termine de poner etiquetas metas en todos los page de html
+
+7. - subi mi page en un servidor 
+
+8. - elimine codigo basura que tenia en mi html
